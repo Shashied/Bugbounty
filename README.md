@@ -1,8 +1,6 @@
 # Capture the flag
-![](https://github.com/Shashied/Bugbounty/blob/master/Images/0_-KQwgizVHbr4hnak.png)
-
-## Explanation
-*****************
+![](https://github.com/Shashied/Bugbounty/blob/master/Images/0_-KQwgizVHbr4hnak.png)  
+ 
 
 ### Quick Links
   * ### [A little something to get you started](https://github.com/Shashied/bigbangtheory/wiki/Sheldon1#Phase_1) &nbsp;&nbsp;&nbsp; 
